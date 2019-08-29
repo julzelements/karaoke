@@ -1,7 +1,7 @@
 # karaoke
 campjs karaoke playlist
 
-Karaoke Sweet Child O'Mine - Guns N' Roses *
+* Karaoke Sweet Child O'Mine - Guns N' Roses *
 Karaoke Man In The Mirror - Michael Jackson *
 Toxic in the Style of "Britney Spears" karaoke video with lyrics (no lead vocal)
 Karaoke - Alanis Morissette You Oughta Know
